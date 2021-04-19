@@ -51,3 +51,14 @@ h1 {
 
 /* table */
 
+table {
+    border-collapse: collapse;
+}
+
+.cella-piccola {
+    width: 25%;
+}
+
+.cella-grande {
+    width: 50%;
+}
