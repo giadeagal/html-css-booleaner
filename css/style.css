@@ -1,3 +1,31 @@
+/* Comuni */
+.testo-piccolo {
+    font-size: 12px;
+}
+
+.grigio {
+    color:gray
+}
+
+.turchese {
+    color: darkturquoise;
+}
+
+.sfondo-turchese{
+    background-color: turquoise;
+}
+
+.sfondo-blu {
+    background-color: blue;
+}
+
+.bianco {
+    color: white;
+}
+
+.testo-evidenziato {
+    background-color: yellow;
+}
 
 /* header */
 header {
@@ -21,14 +49,5 @@ h1 {
     font-size: 50px;
 }
 
-.testo-piccolo {
-    font-size: 12px;
-}
+/* table */
 
-.grigio {
-    color:gray
-}
-
-.turchese {
-    color: darkturquoise;
-}
