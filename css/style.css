@@ -1,12 +1,18 @@
-/* Comuni */
+/* Comuni - formattazione testo*/
 
-.testo-piccolo {
+.testo12 {
     font-size: 12px;
 }
 
-.testo-grande {
+.testo18 {
     font-size: 18px;
 }
+
+.testo-evidenziato {
+    background-color: yellow;
+}
+
+/* Comuni - colori */
 
 .bianco
 {
@@ -36,16 +42,12 @@
     color: white;
 }
 
-.testo-evidenziato {
-    background-color: yellow;
-}
-
 /* header */
 header {
     height: 150px;
     width: 100%;
     background-image: url("../img/pattern.png");
-    background-color: deepskyblue;
+    background-color: #4ea0ff;
     position: relative;
 }
 
