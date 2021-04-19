@@ -1,9 +1,27 @@
+* {
+    text-align: center;
+}
+
+.container-body {
+    width: 50%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7)
+}
+
 body {
     background-image: url(https://us.123rf.com/450wm/krekdm/krekdm1607/krekdm160700358/61905873-naadloze-lijn-patroon-kan-worden-gebruikt-voor-behang-website-achtergrond-textieldruk-modern-monochr.jpg?ver=6);
     background-repeat: repeat;
 }
 
 header {
-    background-color: teal;
+    background-color: rgba(0, 128, 128, 0.7);
     border-radius: 50px;
 }
+
+header > img {
+    height: 150px;
+    margin: auto;
+}
+
+/* Main */
+.container-main
