@@ -1,8 +1,17 @@
 /* Comuni */
+
 .testo-piccolo {
     font-size: 12px;
 }
 
+.testo-grande {
+    font-size: 18px;
+}
+
+
+.grassetto {
+    font-weight: bold;
+}
 .grigio {
     color:gray
 }
@@ -29,6 +38,7 @@
 
 /* header */
 header {
+    margin: 0px;
     height: 150px;
     width: 100%;
     background-image: url("../img/pattern.png");
@@ -62,3 +72,6 @@ table {
 .cella-grande {
     width: 50%;
 }
+
+/* Footer */
+
